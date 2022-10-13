@@ -4,6 +4,6 @@
 ## Database
 
 
-## [AZ](./az)
+## [AZ](./az.md)
 ### AWS Cloudfront
 ### AWS Global Accelerator
