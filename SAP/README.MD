@@ -5,5 +5,5 @@
 
 
 ## [AZ](./az.md)
-### AWS Cloudfront
-### AWS Global Accelerator
+- AWS Cloudfront
+- AWS Global Accelerator
